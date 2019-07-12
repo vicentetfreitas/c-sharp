@@ -1,0 +1,11 @@
+D:\C#\URI_Iniciante_1038_Lanche\URI_Iniciante_1038_Lanche\obj\Debug\netcoreapp2.1\URI_Iniciante_1038_Lanche.csprojAssemblyReference.cache
+D:\C#\URI_Iniciante_1038_Lanche\URI_Iniciante_1038_Lanche\obj\Debug\netcoreapp2.1\URI_Iniciante_1038_Lanche.csproj.CoreCompileInputs.cache
+D:\C#\URI_Iniciante_1038_Lanche\URI_Iniciante_1038_Lanche\obj\Debug\netcoreapp2.1\URI_Iniciante_1038_Lanche.AssemblyInfoInputs.cache
+D:\C#\URI_Iniciante_1038_Lanche\URI_Iniciante_1038_Lanche\obj\Debug\netcoreapp2.1\URI_Iniciante_1038_Lanche.AssemblyInfo.cs
+D:\C#\URI_Iniciante_1038_Lanche\URI_Iniciante_1038_Lanche\bin\Debug\netcoreapp2.1\URI_Iniciante_1038_Lanche.deps.json
+D:\C#\URI_Iniciante_1038_Lanche\URI_Iniciante_1038_Lanche\bin\Debug\netcoreapp2.1\URI_Iniciante_1038_Lanche.runtimeconfig.json
+D:\C#\URI_Iniciante_1038_Lanche\URI_Iniciante_1038_Lanche\bin\Debug\netcoreapp2.1\URI_Iniciante_1038_Lanche.runtimeconfig.dev.json
+D:\C#\URI_Iniciante_1038_Lanche\URI_Iniciante_1038_Lanche\bin\Debug\netcoreapp2.1\URI_Iniciante_1038_Lanche.dll
+D:\C#\URI_Iniciante_1038_Lanche\URI_Iniciante_1038_Lanche\bin\Debug\netcoreapp2.1\URI_Iniciante_1038_Lanche.pdb
+D:\C#\URI_Iniciante_1038_Lanche\URI_Iniciante_1038_Lanche\obj\Debug\netcoreapp2.1\URI_Iniciante_1038_Lanche.dll
+D:\C#\URI_Iniciante_1038_Lanche\URI_Iniciante_1038_Lanche\obj\Debug\netcoreapp2.1\URI_Iniciante_1038_Lanche.pdb

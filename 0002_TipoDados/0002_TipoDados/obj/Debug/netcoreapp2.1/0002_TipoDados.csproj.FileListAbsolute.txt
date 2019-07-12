@@ -1,0 +1,11 @@
+D:\Programação\C#\0002_TipoDados\0002_TipoDados\bin\Debug\netcoreapp2.1\0002_TipoDados.deps.json
+D:\Programação\C#\0002_TipoDados\0002_TipoDados\bin\Debug\netcoreapp2.1\0002_TipoDados.runtimeconfig.json
+D:\Programação\C#\0002_TipoDados\0002_TipoDados\bin\Debug\netcoreapp2.1\0002_TipoDados.runtimeconfig.dev.json
+D:\Programação\C#\0002_TipoDados\0002_TipoDados\bin\Debug\netcoreapp2.1\0002_TipoDados.dll
+D:\Programação\C#\0002_TipoDados\0002_TipoDados\bin\Debug\netcoreapp2.1\0002_TipoDados.pdb
+D:\Programação\C#\0002_TipoDados\0002_TipoDados\obj\Debug\netcoreapp2.1\0002_TipoDados.csprojAssemblyReference.cache
+D:\Programação\C#\0002_TipoDados\0002_TipoDados\obj\Debug\netcoreapp2.1\0002_TipoDados.csproj.CoreCompileInputs.cache
+D:\Programação\C#\0002_TipoDados\0002_TipoDados\obj\Debug\netcoreapp2.1\0002_TipoDados.AssemblyInfoInputs.cache
+D:\Programação\C#\0002_TipoDados\0002_TipoDados\obj\Debug\netcoreapp2.1\0002_TipoDados.AssemblyInfo.cs
+D:\Programação\C#\0002_TipoDados\0002_TipoDados\obj\Debug\netcoreapp2.1\0002_TipoDados.dll
+D:\Programação\C#\0002_TipoDados\0002_TipoDados\obj\Debug\netcoreapp2.1\0002_TipoDados.pdb

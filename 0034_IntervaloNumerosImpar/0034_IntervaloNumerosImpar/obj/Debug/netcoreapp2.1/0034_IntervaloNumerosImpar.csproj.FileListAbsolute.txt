@@ -1,0 +1,11 @@
+D:\C#\0034_IntervaloNumerosImpar\0034_IntervaloNumerosImpar\obj\Debug\netcoreapp2.1\0034_IntervaloNumerosImpar.csproj.CoreCompileInputs.cache
+D:\C#\0034_IntervaloNumerosImpar\0034_IntervaloNumerosImpar\obj\Debug\netcoreapp2.1\0034_IntervaloNumerosImpar.AssemblyInfoInputs.cache
+D:\C#\0034_IntervaloNumerosImpar\0034_IntervaloNumerosImpar\obj\Debug\netcoreapp2.1\0034_IntervaloNumerosImpar.AssemblyInfo.cs
+D:\C#\0034_IntervaloNumerosImpar\0034_IntervaloNumerosImpar\bin\Debug\netcoreapp2.1\0034_IntervaloNumerosImpar.deps.json
+D:\C#\0034_IntervaloNumerosImpar\0034_IntervaloNumerosImpar\bin\Debug\netcoreapp2.1\0034_IntervaloNumerosImpar.runtimeconfig.json
+D:\C#\0034_IntervaloNumerosImpar\0034_IntervaloNumerosImpar\bin\Debug\netcoreapp2.1\0034_IntervaloNumerosImpar.runtimeconfig.dev.json
+D:\C#\0034_IntervaloNumerosImpar\0034_IntervaloNumerosImpar\bin\Debug\netcoreapp2.1\0034_IntervaloNumerosImpar.dll
+D:\C#\0034_IntervaloNumerosImpar\0034_IntervaloNumerosImpar\bin\Debug\netcoreapp2.1\0034_IntervaloNumerosImpar.pdb
+D:\C#\0034_IntervaloNumerosImpar\0034_IntervaloNumerosImpar\obj\Debug\netcoreapp2.1\0034_IntervaloNumerosImpar.dll
+D:\C#\0034_IntervaloNumerosImpar\0034_IntervaloNumerosImpar\obj\Debug\netcoreapp2.1\0034_IntervaloNumerosImpar.pdb
+D:\C#\0034_IntervaloNumerosImpar\0034_IntervaloNumerosImpar\obj\Debug\netcoreapp2.1\0034_IntervaloNumerosImpar.csprojAssemblyReference.cache

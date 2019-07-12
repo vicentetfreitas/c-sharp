@@ -1,0 +1,11 @@
+D:\C#\URI_Iniciante_1044_Multiplos\URI_Iniciante_1044_Multiplos\bin\Debug\netcoreapp2.1\URI_Iniciante_1044_Multiplos.deps.json
+D:\C#\URI_Iniciante_1044_Multiplos\URI_Iniciante_1044_Multiplos\bin\Debug\netcoreapp2.1\URI_Iniciante_1044_Multiplos.runtimeconfig.json
+D:\C#\URI_Iniciante_1044_Multiplos\URI_Iniciante_1044_Multiplos\bin\Debug\netcoreapp2.1\URI_Iniciante_1044_Multiplos.runtimeconfig.dev.json
+D:\C#\URI_Iniciante_1044_Multiplos\URI_Iniciante_1044_Multiplos\bin\Debug\netcoreapp2.1\URI_Iniciante_1044_Multiplos.dll
+D:\C#\URI_Iniciante_1044_Multiplos\URI_Iniciante_1044_Multiplos\bin\Debug\netcoreapp2.1\URI_Iniciante_1044_Multiplos.pdb
+D:\C#\URI_Iniciante_1044_Multiplos\URI_Iniciante_1044_Multiplos\obj\Debug\netcoreapp2.1\URI_Iniciante_1044_Multiplos.csprojAssemblyReference.cache
+D:\C#\URI_Iniciante_1044_Multiplos\URI_Iniciante_1044_Multiplos\obj\Debug\netcoreapp2.1\URI_Iniciante_1044_Multiplos.csproj.CoreCompileInputs.cache
+D:\C#\URI_Iniciante_1044_Multiplos\URI_Iniciante_1044_Multiplos\obj\Debug\netcoreapp2.1\URI_Iniciante_1044_Multiplos.AssemblyInfoInputs.cache
+D:\C#\URI_Iniciante_1044_Multiplos\URI_Iniciante_1044_Multiplos\obj\Debug\netcoreapp2.1\URI_Iniciante_1044_Multiplos.AssemblyInfo.cs
+D:\C#\URI_Iniciante_1044_Multiplos\URI_Iniciante_1044_Multiplos\obj\Debug\netcoreapp2.1\URI_Iniciante_1044_Multiplos.dll
+D:\C#\URI_Iniciante_1044_Multiplos\URI_Iniciante_1044_Multiplos\obj\Debug\netcoreapp2.1\URI_Iniciante_1044_Multiplos.pdb

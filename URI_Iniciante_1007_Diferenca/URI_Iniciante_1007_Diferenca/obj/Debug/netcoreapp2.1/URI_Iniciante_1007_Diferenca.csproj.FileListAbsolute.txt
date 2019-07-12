@@ -1,0 +1,10 @@
+D:\C#\URI_Iniciante_1007_Diferenca\URI_Iniciante_1007_Diferenca\bin\Debug\netcoreapp2.1\URI_Iniciante_1007_Diferenca.deps.json
+D:\C#\URI_Iniciante_1007_Diferenca\URI_Iniciante_1007_Diferenca\bin\Debug\netcoreapp2.1\URI_Iniciante_1007_Diferenca.runtimeconfig.json
+D:\C#\URI_Iniciante_1007_Diferenca\URI_Iniciante_1007_Diferenca\bin\Debug\netcoreapp2.1\URI_Iniciante_1007_Diferenca.runtimeconfig.dev.json
+D:\C#\URI_Iniciante_1007_Diferenca\URI_Iniciante_1007_Diferenca\bin\Debug\netcoreapp2.1\URI_Iniciante_1007_Diferenca.dll
+D:\C#\URI_Iniciante_1007_Diferenca\URI_Iniciante_1007_Diferenca\bin\Debug\netcoreapp2.1\URI_Iniciante_1007_Diferenca.pdb
+D:\C#\URI_Iniciante_1007_Diferenca\URI_Iniciante_1007_Diferenca\obj\Debug\netcoreapp2.1\URI_Iniciante_1007_Diferenca.csproj.CoreCompileInputs.cache
+D:\C#\URI_Iniciante_1007_Diferenca\URI_Iniciante_1007_Diferenca\obj\Debug\netcoreapp2.1\URI_Iniciante_1007_Diferenca.AssemblyInfoInputs.cache
+D:\C#\URI_Iniciante_1007_Diferenca\URI_Iniciante_1007_Diferenca\obj\Debug\netcoreapp2.1\URI_Iniciante_1007_Diferenca.AssemblyInfo.cs
+D:\C#\URI_Iniciante_1007_Diferenca\URI_Iniciante_1007_Diferenca\obj\Debug\netcoreapp2.1\URI_Iniciante_1007_Diferenca.dll
+D:\C#\URI_Iniciante_1007_Diferenca\URI_Iniciante_1007_Diferenca\obj\Debug\netcoreapp2.1\URI_Iniciante_1007_Diferenca.pdb

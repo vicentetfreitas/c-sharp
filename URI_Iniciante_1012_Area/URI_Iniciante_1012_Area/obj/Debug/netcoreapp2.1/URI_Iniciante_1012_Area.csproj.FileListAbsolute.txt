@@ -1,0 +1,11 @@
+D:\C#\URI_Iniciante_1012_Area\URI_Iniciante_1012_Area\bin\Debug\netcoreapp2.1\URI_Iniciante_1012_Area.deps.json
+D:\C#\URI_Iniciante_1012_Area\URI_Iniciante_1012_Area\bin\Debug\netcoreapp2.1\URI_Iniciante_1012_Area.runtimeconfig.json
+D:\C#\URI_Iniciante_1012_Area\URI_Iniciante_1012_Area\bin\Debug\netcoreapp2.1\URI_Iniciante_1012_Area.runtimeconfig.dev.json
+D:\C#\URI_Iniciante_1012_Area\URI_Iniciante_1012_Area\bin\Debug\netcoreapp2.1\URI_Iniciante_1012_Area.dll
+D:\C#\URI_Iniciante_1012_Area\URI_Iniciante_1012_Area\bin\Debug\netcoreapp2.1\URI_Iniciante_1012_Area.pdb
+D:\C#\URI_Iniciante_1012_Area\URI_Iniciante_1012_Area\obj\Debug\netcoreapp2.1\URI_Iniciante_1012_Area.csproj.CoreCompileInputs.cache
+D:\C#\URI_Iniciante_1012_Area\URI_Iniciante_1012_Area\obj\Debug\netcoreapp2.1\URI_Iniciante_1012_Area.AssemblyInfoInputs.cache
+D:\C#\URI_Iniciante_1012_Area\URI_Iniciante_1012_Area\obj\Debug\netcoreapp2.1\URI_Iniciante_1012_Area.AssemblyInfo.cs
+D:\C#\URI_Iniciante_1012_Area\URI_Iniciante_1012_Area\obj\Debug\netcoreapp2.1\URI_Iniciante_1012_Area.dll
+D:\C#\URI_Iniciante_1012_Area\URI_Iniciante_1012_Area\obj\Debug\netcoreapp2.1\URI_Iniciante_1012_Area.pdb
+D:\C#\URI_Iniciante_1012_Area\URI_Iniciante_1012_Area\obj\Debug\netcoreapp2.1\URI_Iniciante_1012_Area.csprojAssemblyReference.cache

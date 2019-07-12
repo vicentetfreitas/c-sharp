@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0018_CirculoRaioArea", "0018_CirculoRaioArea\0018_CirculoRaioArea.csproj", "{300032C0-D75D-46DB-A033-1AAD8077B591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{300032C0-D75D-46DB-A033-1AAD8077B591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300032C0-D75D-46DB-A033-1AAD8077B591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300032C0-D75D-46DB-A033-1AAD8077B591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300032C0-D75D-46DB-A033-1AAD8077B591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2994DA4A-A274-4065-A5C5-614B3FC72CDE}
+	EndGlobalSection
+EndGlobal

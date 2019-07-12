@@ -1,0 +1,11 @@
+D:\C#\0031_SenhaCorreta\0031_SenhaCorreta\bin\Debug\netcoreapp2.1\0031_SenhaCorreta.deps.json
+D:\C#\0031_SenhaCorreta\0031_SenhaCorreta\bin\Debug\netcoreapp2.1\0031_SenhaCorreta.runtimeconfig.json
+D:\C#\0031_SenhaCorreta\0031_SenhaCorreta\bin\Debug\netcoreapp2.1\0031_SenhaCorreta.runtimeconfig.dev.json
+D:\C#\0031_SenhaCorreta\0031_SenhaCorreta\bin\Debug\netcoreapp2.1\0031_SenhaCorreta.dll
+D:\C#\0031_SenhaCorreta\0031_SenhaCorreta\bin\Debug\netcoreapp2.1\0031_SenhaCorreta.pdb
+D:\C#\0031_SenhaCorreta\0031_SenhaCorreta\obj\Debug\netcoreapp2.1\0031_SenhaCorreta.csprojAssemblyReference.cache
+D:\C#\0031_SenhaCorreta\0031_SenhaCorreta\obj\Debug\netcoreapp2.1\0031_SenhaCorreta.csproj.CoreCompileInputs.cache
+D:\C#\0031_SenhaCorreta\0031_SenhaCorreta\obj\Debug\netcoreapp2.1\0031_SenhaCorreta.AssemblyInfoInputs.cache
+D:\C#\0031_SenhaCorreta\0031_SenhaCorreta\obj\Debug\netcoreapp2.1\0031_SenhaCorreta.AssemblyInfo.cs
+D:\C#\0031_SenhaCorreta\0031_SenhaCorreta\obj\Debug\netcoreapp2.1\0031_SenhaCorreta.dll
+D:\C#\0031_SenhaCorreta\0031_SenhaCorreta\obj\Debug\netcoreapp2.1\0031_SenhaCorreta.pdb

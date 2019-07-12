@@ -1,0 +1,11 @@
+D:\Programação\C#\0001_PrimeiroProjeto\0001_PrimeiroProjeto\bin\Debug\netcoreapp2.1\0001_PrimeiroProjeto.deps.json
+D:\Programação\C#\0001_PrimeiroProjeto\0001_PrimeiroProjeto\bin\Debug\netcoreapp2.1\0001_PrimeiroProjeto.runtimeconfig.json
+D:\Programação\C#\0001_PrimeiroProjeto\0001_PrimeiroProjeto\bin\Debug\netcoreapp2.1\0001_PrimeiroProjeto.runtimeconfig.dev.json
+D:\Programação\C#\0001_PrimeiroProjeto\0001_PrimeiroProjeto\bin\Debug\netcoreapp2.1\0001_PrimeiroProjeto.dll
+D:\Programação\C#\0001_PrimeiroProjeto\0001_PrimeiroProjeto\bin\Debug\netcoreapp2.1\0001_PrimeiroProjeto.pdb
+D:\Programação\C#\0001_PrimeiroProjeto\0001_PrimeiroProjeto\obj\Debug\netcoreapp2.1\0001_PrimeiroProjeto.csprojAssemblyReference.cache
+D:\Programação\C#\0001_PrimeiroProjeto\0001_PrimeiroProjeto\obj\Debug\netcoreapp2.1\0001_PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\Programação\C#\0001_PrimeiroProjeto\0001_PrimeiroProjeto\obj\Debug\netcoreapp2.1\0001_PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\Programação\C#\0001_PrimeiroProjeto\0001_PrimeiroProjeto\obj\Debug\netcoreapp2.1\0001_PrimeiroProjeto.AssemblyInfo.cs
+D:\Programação\C#\0001_PrimeiroProjeto\0001_PrimeiroProjeto\obj\Debug\netcoreapp2.1\0001_PrimeiroProjeto.dll
+D:\Programação\C#\0001_PrimeiroProjeto\0001_PrimeiroProjeto\obj\Debug\netcoreapp2.1\0001_PrimeiroProjeto.pdb

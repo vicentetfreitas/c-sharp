@@ -1,0 +1,11 @@
+D:\C#\URI_Iniciante_1021_NotasMoedas\URI_Iniciante_1021_NotasMoedas\bin\Debug\netcoreapp2.1\URI_Iniciante_1021_NotasMoedas.deps.json
+D:\C#\URI_Iniciante_1021_NotasMoedas\URI_Iniciante_1021_NotasMoedas\bin\Debug\netcoreapp2.1\URI_Iniciante_1021_NotasMoedas.runtimeconfig.json
+D:\C#\URI_Iniciante_1021_NotasMoedas\URI_Iniciante_1021_NotasMoedas\bin\Debug\netcoreapp2.1\URI_Iniciante_1021_NotasMoedas.runtimeconfig.dev.json
+D:\C#\URI_Iniciante_1021_NotasMoedas\URI_Iniciante_1021_NotasMoedas\bin\Debug\netcoreapp2.1\URI_Iniciante_1021_NotasMoedas.dll
+D:\C#\URI_Iniciante_1021_NotasMoedas\URI_Iniciante_1021_NotasMoedas\bin\Debug\netcoreapp2.1\URI_Iniciante_1021_NotasMoedas.pdb
+D:\C#\URI_Iniciante_1021_NotasMoedas\URI_Iniciante_1021_NotasMoedas\obj\Debug\netcoreapp2.1\URI_Iniciante_1021_NotasMoedas.csprojAssemblyReference.cache
+D:\C#\URI_Iniciante_1021_NotasMoedas\URI_Iniciante_1021_NotasMoedas\obj\Debug\netcoreapp2.1\URI_Iniciante_1021_NotasMoedas.csproj.CoreCompileInputs.cache
+D:\C#\URI_Iniciante_1021_NotasMoedas\URI_Iniciante_1021_NotasMoedas\obj\Debug\netcoreapp2.1\URI_Iniciante_1021_NotasMoedas.AssemblyInfoInputs.cache
+D:\C#\URI_Iniciante_1021_NotasMoedas\URI_Iniciante_1021_NotasMoedas\obj\Debug\netcoreapp2.1\URI_Iniciante_1021_NotasMoedas.AssemblyInfo.cs
+D:\C#\URI_Iniciante_1021_NotasMoedas\URI_Iniciante_1021_NotasMoedas\obj\Debug\netcoreapp2.1\URI_Iniciante_1021_NotasMoedas.dll
+D:\C#\URI_Iniciante_1021_NotasMoedas\URI_Iniciante_1021_NotasMoedas\obj\Debug\netcoreapp2.1\URI_Iniciante_1021_NotasMoedas.pdb

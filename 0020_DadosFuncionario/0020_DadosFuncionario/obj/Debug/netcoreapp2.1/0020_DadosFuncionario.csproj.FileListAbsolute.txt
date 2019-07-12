@@ -1,0 +1,11 @@
+D:\C#\0020_DadosFuncionario\0020_DadosFuncionario\bin\Debug\netcoreapp2.1\0020_DadosFuncionario.deps.json
+D:\C#\0020_DadosFuncionario\0020_DadosFuncionario\bin\Debug\netcoreapp2.1\0020_DadosFuncionario.runtimeconfig.json
+D:\C#\0020_DadosFuncionario\0020_DadosFuncionario\bin\Debug\netcoreapp2.1\0020_DadosFuncionario.runtimeconfig.dev.json
+D:\C#\0020_DadosFuncionario\0020_DadosFuncionario\bin\Debug\netcoreapp2.1\0020_DadosFuncionario.dll
+D:\C#\0020_DadosFuncionario\0020_DadosFuncionario\bin\Debug\netcoreapp2.1\0020_DadosFuncionario.pdb
+D:\C#\0020_DadosFuncionario\0020_DadosFuncionario\obj\Debug\netcoreapp2.1\0020_DadosFuncionario.csprojAssemblyReference.cache
+D:\C#\0020_DadosFuncionario\0020_DadosFuncionario\obj\Debug\netcoreapp2.1\0020_DadosFuncionario.csproj.CoreCompileInputs.cache
+D:\C#\0020_DadosFuncionario\0020_DadosFuncionario\obj\Debug\netcoreapp2.1\0020_DadosFuncionario.AssemblyInfoInputs.cache
+D:\C#\0020_DadosFuncionario\0020_DadosFuncionario\obj\Debug\netcoreapp2.1\0020_DadosFuncionario.AssemblyInfo.cs
+D:\C#\0020_DadosFuncionario\0020_DadosFuncionario\obj\Debug\netcoreapp2.1\0020_DadosFuncionario.dll
+D:\C#\0020_DadosFuncionario\0020_DadosFuncionario\obj\Debug\netcoreapp2.1\0020_DadosFuncionario.pdb

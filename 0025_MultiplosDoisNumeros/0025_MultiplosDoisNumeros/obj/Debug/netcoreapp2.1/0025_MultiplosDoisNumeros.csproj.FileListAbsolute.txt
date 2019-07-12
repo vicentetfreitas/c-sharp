@@ -1,0 +1,11 @@
+D:\C#\0025_MultiplosDoisNumeros\0025_MultiplosDoisNumeros\bin\Debug\netcoreapp2.1\0025_MultiplosDoisNumeros.deps.json
+D:\C#\0025_MultiplosDoisNumeros\0025_MultiplosDoisNumeros\bin\Debug\netcoreapp2.1\0025_MultiplosDoisNumeros.runtimeconfig.json
+D:\C#\0025_MultiplosDoisNumeros\0025_MultiplosDoisNumeros\bin\Debug\netcoreapp2.1\0025_MultiplosDoisNumeros.runtimeconfig.dev.json
+D:\C#\0025_MultiplosDoisNumeros\0025_MultiplosDoisNumeros\bin\Debug\netcoreapp2.1\0025_MultiplosDoisNumeros.dll
+D:\C#\0025_MultiplosDoisNumeros\0025_MultiplosDoisNumeros\bin\Debug\netcoreapp2.1\0025_MultiplosDoisNumeros.pdb
+D:\C#\0025_MultiplosDoisNumeros\0025_MultiplosDoisNumeros\obj\Debug\netcoreapp2.1\0025_MultiplosDoisNumeros.csproj.CoreCompileInputs.cache
+D:\C#\0025_MultiplosDoisNumeros\0025_MultiplosDoisNumeros\obj\Debug\netcoreapp2.1\0025_MultiplosDoisNumeros.AssemblyInfoInputs.cache
+D:\C#\0025_MultiplosDoisNumeros\0025_MultiplosDoisNumeros\obj\Debug\netcoreapp2.1\0025_MultiplosDoisNumeros.AssemblyInfo.cs
+D:\C#\0025_MultiplosDoisNumeros\0025_MultiplosDoisNumeros\obj\Debug\netcoreapp2.1\0025_MultiplosDoisNumeros.dll
+D:\C#\0025_MultiplosDoisNumeros\0025_MultiplosDoisNumeros\obj\Debug\netcoreapp2.1\0025_MultiplosDoisNumeros.pdb
+D:\C#\0025_MultiplosDoisNumeros\0025_MultiplosDoisNumeros\obj\Debug\netcoreapp2.1\0025_MultiplosDoisNumeros.csprojAssemblyReference.cache

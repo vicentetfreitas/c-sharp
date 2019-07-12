@@ -1,0 +1,11 @@
+D:\Programação\C#\0007_ConversaoImplicitaCasting\0007_ConversaoImplicitaCasting\bin\Debug\netcoreapp2.1\0007_ConversaoImplicitaCasting.deps.json
+D:\Programação\C#\0007_ConversaoImplicitaCasting\0007_ConversaoImplicitaCasting\bin\Debug\netcoreapp2.1\0007_ConversaoImplicitaCasting.runtimeconfig.json
+D:\Programação\C#\0007_ConversaoImplicitaCasting\0007_ConversaoImplicitaCasting\bin\Debug\netcoreapp2.1\0007_ConversaoImplicitaCasting.runtimeconfig.dev.json
+D:\Programação\C#\0007_ConversaoImplicitaCasting\0007_ConversaoImplicitaCasting\bin\Debug\netcoreapp2.1\0007_ConversaoImplicitaCasting.dll
+D:\Programação\C#\0007_ConversaoImplicitaCasting\0007_ConversaoImplicitaCasting\bin\Debug\netcoreapp2.1\0007_ConversaoImplicitaCasting.pdb
+D:\Programação\C#\0007_ConversaoImplicitaCasting\0007_ConversaoImplicitaCasting\obj\Debug\netcoreapp2.1\0007_ConversaoImplicitaCasting.csprojAssemblyReference.cache
+D:\Programação\C#\0007_ConversaoImplicitaCasting\0007_ConversaoImplicitaCasting\obj\Debug\netcoreapp2.1\0007_ConversaoImplicitaCasting.csproj.CoreCompileInputs.cache
+D:\Programação\C#\0007_ConversaoImplicitaCasting\0007_ConversaoImplicitaCasting\obj\Debug\netcoreapp2.1\0007_ConversaoImplicitaCasting.AssemblyInfoInputs.cache
+D:\Programação\C#\0007_ConversaoImplicitaCasting\0007_ConversaoImplicitaCasting\obj\Debug\netcoreapp2.1\0007_ConversaoImplicitaCasting.AssemblyInfo.cs
+D:\Programação\C#\0007_ConversaoImplicitaCasting\0007_ConversaoImplicitaCasting\obj\Debug\netcoreapp2.1\0007_ConversaoImplicitaCasting.dll
+D:\Programação\C#\0007_ConversaoImplicitaCasting\0007_ConversaoImplicitaCasting\obj\Debug\netcoreapp2.1\0007_ConversaoImplicitaCasting.pdb

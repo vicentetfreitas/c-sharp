@@ -1,0 +1,10 @@
+D:\C#\URI_Iniciante_1006_Media_2\URI_Iniciante_1006_Media_2\obj\Debug\netcoreapp2.1\URI_Iniciante_1006_Media_2.csproj.CoreCompileInputs.cache
+D:\C#\URI_Iniciante_1006_Media_2\URI_Iniciante_1006_Media_2\obj\Debug\netcoreapp2.1\URI_Iniciante_1006_Media_2.AssemblyInfoInputs.cache
+D:\C#\URI_Iniciante_1006_Media_2\URI_Iniciante_1006_Media_2\obj\Debug\netcoreapp2.1\URI_Iniciante_1006_Media_2.AssemblyInfo.cs
+D:\C#\URI_Iniciante_1006_Media_2\URI_Iniciante_1006_Media_2\bin\Debug\netcoreapp2.1\URI_Iniciante_1006_Media_2.deps.json
+D:\C#\URI_Iniciante_1006_Media_2\URI_Iniciante_1006_Media_2\bin\Debug\netcoreapp2.1\URI_Iniciante_1006_Media_2.runtimeconfig.json
+D:\C#\URI_Iniciante_1006_Media_2\URI_Iniciante_1006_Media_2\bin\Debug\netcoreapp2.1\URI_Iniciante_1006_Media_2.runtimeconfig.dev.json
+D:\C#\URI_Iniciante_1006_Media_2\URI_Iniciante_1006_Media_2\bin\Debug\netcoreapp2.1\URI_Iniciante_1006_Media_2.dll
+D:\C#\URI_Iniciante_1006_Media_2\URI_Iniciante_1006_Media_2\bin\Debug\netcoreapp2.1\URI_Iniciante_1006_Media_2.pdb
+D:\C#\URI_Iniciante_1006_Media_2\URI_Iniciante_1006_Media_2\obj\Debug\netcoreapp2.1\URI_Iniciante_1006_Media_2.dll
+D:\C#\URI_Iniciante_1006_Media_2\URI_Iniciante_1006_Media_2\obj\Debug\netcoreapp2.1\URI_Iniciante_1006_Media_2.pdb

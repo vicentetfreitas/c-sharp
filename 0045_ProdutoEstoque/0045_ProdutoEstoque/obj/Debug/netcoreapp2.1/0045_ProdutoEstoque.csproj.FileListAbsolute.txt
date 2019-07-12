@@ -1,0 +1,11 @@
+D:\C#\0045_ProdutoEstoque\0045_ProdutoEstoque\bin\Debug\netcoreapp2.1\0045_ProdutoEstoque.deps.json
+D:\C#\0045_ProdutoEstoque\0045_ProdutoEstoque\bin\Debug\netcoreapp2.1\0045_ProdutoEstoque.runtimeconfig.json
+D:\C#\0045_ProdutoEstoque\0045_ProdutoEstoque\bin\Debug\netcoreapp2.1\0045_ProdutoEstoque.runtimeconfig.dev.json
+D:\C#\0045_ProdutoEstoque\0045_ProdutoEstoque\bin\Debug\netcoreapp2.1\0045_ProdutoEstoque.dll
+D:\C#\0045_ProdutoEstoque\0045_ProdutoEstoque\bin\Debug\netcoreapp2.1\0045_ProdutoEstoque.pdb
+D:\C#\0045_ProdutoEstoque\0045_ProdutoEstoque\obj\Debug\netcoreapp2.1\0045_ProdutoEstoque.csprojAssemblyReference.cache
+D:\C#\0045_ProdutoEstoque\0045_ProdutoEstoque\obj\Debug\netcoreapp2.1\0045_ProdutoEstoque.csproj.CoreCompileInputs.cache
+D:\C#\0045_ProdutoEstoque\0045_ProdutoEstoque\obj\Debug\netcoreapp2.1\0045_ProdutoEstoque.AssemblyInfoInputs.cache
+D:\C#\0045_ProdutoEstoque\0045_ProdutoEstoque\obj\Debug\netcoreapp2.1\0045_ProdutoEstoque.AssemblyInfo.cs
+D:\C#\0045_ProdutoEstoque\0045_ProdutoEstoque\obj\Debug\netcoreapp2.1\0045_ProdutoEstoque.dll
+D:\C#\0045_ProdutoEstoque\0045_ProdutoEstoque\obj\Debug\netcoreapp2.1\0045_ProdutoEstoque.pdb

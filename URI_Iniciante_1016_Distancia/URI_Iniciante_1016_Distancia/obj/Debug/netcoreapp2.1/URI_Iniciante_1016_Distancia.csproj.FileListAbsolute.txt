@@ -1,0 +1,11 @@
+D:\C#\URI_Iniciante_1016_Distancia\URI_Iniciante_1016_Distancia\bin\Debug\netcoreapp2.1\URI_Iniciante_1016_Distancia.deps.json
+D:\C#\URI_Iniciante_1016_Distancia\URI_Iniciante_1016_Distancia\bin\Debug\netcoreapp2.1\URI_Iniciante_1016_Distancia.runtimeconfig.json
+D:\C#\URI_Iniciante_1016_Distancia\URI_Iniciante_1016_Distancia\bin\Debug\netcoreapp2.1\URI_Iniciante_1016_Distancia.runtimeconfig.dev.json
+D:\C#\URI_Iniciante_1016_Distancia\URI_Iniciante_1016_Distancia\bin\Debug\netcoreapp2.1\URI_Iniciante_1016_Distancia.dll
+D:\C#\URI_Iniciante_1016_Distancia\URI_Iniciante_1016_Distancia\bin\Debug\netcoreapp2.1\URI_Iniciante_1016_Distancia.pdb
+D:\C#\URI_Iniciante_1016_Distancia\URI_Iniciante_1016_Distancia\obj\Debug\netcoreapp2.1\URI_Iniciante_1016_Distancia.csprojAssemblyReference.cache
+D:\C#\URI_Iniciante_1016_Distancia\URI_Iniciante_1016_Distancia\obj\Debug\netcoreapp2.1\URI_Iniciante_1016_Distancia.csproj.CoreCompileInputs.cache
+D:\C#\URI_Iniciante_1016_Distancia\URI_Iniciante_1016_Distancia\obj\Debug\netcoreapp2.1\URI_Iniciante_1016_Distancia.AssemblyInfoInputs.cache
+D:\C#\URI_Iniciante_1016_Distancia\URI_Iniciante_1016_Distancia\obj\Debug\netcoreapp2.1\URI_Iniciante_1016_Distancia.AssemblyInfo.cs
+D:\C#\URI_Iniciante_1016_Distancia\URI_Iniciante_1016_Distancia\obj\Debug\netcoreapp2.1\URI_Iniciante_1016_Distancia.dll
+D:\C#\URI_Iniciante_1016_Distancia\URI_Iniciante_1016_Distancia\obj\Debug\netcoreapp2.1\URI_Iniciante_1016_Distancia.pdb

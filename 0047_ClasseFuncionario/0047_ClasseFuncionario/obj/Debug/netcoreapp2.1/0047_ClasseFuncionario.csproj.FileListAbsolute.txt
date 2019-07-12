@@ -1,0 +1,11 @@
+D:\C#\0047_ClasseFuncionario\0047_ClasseFuncionario\bin\Debug\netcoreapp2.1\0047_ClasseFuncionario.deps.json
+D:\C#\0047_ClasseFuncionario\0047_ClasseFuncionario\bin\Debug\netcoreapp2.1\0047_ClasseFuncionario.runtimeconfig.json
+D:\C#\0047_ClasseFuncionario\0047_ClasseFuncionario\bin\Debug\netcoreapp2.1\0047_ClasseFuncionario.runtimeconfig.dev.json
+D:\C#\0047_ClasseFuncionario\0047_ClasseFuncionario\bin\Debug\netcoreapp2.1\0047_ClasseFuncionario.dll
+D:\C#\0047_ClasseFuncionario\0047_ClasseFuncionario\bin\Debug\netcoreapp2.1\0047_ClasseFuncionario.pdb
+D:\C#\0047_ClasseFuncionario\0047_ClasseFuncionario\obj\Debug\netcoreapp2.1\0047_ClasseFuncionario.csprojAssemblyReference.cache
+D:\C#\0047_ClasseFuncionario\0047_ClasseFuncionario\obj\Debug\netcoreapp2.1\0047_ClasseFuncionario.csproj.CoreCompileInputs.cache
+D:\C#\0047_ClasseFuncionario\0047_ClasseFuncionario\obj\Debug\netcoreapp2.1\0047_ClasseFuncionario.AssemblyInfoInputs.cache
+D:\C#\0047_ClasseFuncionario\0047_ClasseFuncionario\obj\Debug\netcoreapp2.1\0047_ClasseFuncionario.AssemblyInfo.cs
+D:\C#\0047_ClasseFuncionario\0047_ClasseFuncionario\obj\Debug\netcoreapp2.1\0047_ClasseFuncionario.dll
+D:\C#\0047_ClasseFuncionario\0047_ClasseFuncionario\obj\Debug\netcoreapp2.1\0047_ClasseFuncionario.pdb

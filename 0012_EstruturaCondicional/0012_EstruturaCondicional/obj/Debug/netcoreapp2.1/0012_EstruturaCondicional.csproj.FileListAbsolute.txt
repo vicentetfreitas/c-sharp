@@ -1,0 +1,11 @@
+D:\C#\0012_EstruturaCondicional\0012_EstruturaCondicional\bin\Debug\netcoreapp2.1\0012_EstruturaCondicional.deps.json
+D:\C#\0012_EstruturaCondicional\0012_EstruturaCondicional\bin\Debug\netcoreapp2.1\0012_EstruturaCondicional.runtimeconfig.json
+D:\C#\0012_EstruturaCondicional\0012_EstruturaCondicional\bin\Debug\netcoreapp2.1\0012_EstruturaCondicional.runtimeconfig.dev.json
+D:\C#\0012_EstruturaCondicional\0012_EstruturaCondicional\bin\Debug\netcoreapp2.1\0012_EstruturaCondicional.dll
+D:\C#\0012_EstruturaCondicional\0012_EstruturaCondicional\bin\Debug\netcoreapp2.1\0012_EstruturaCondicional.pdb
+D:\C#\0012_EstruturaCondicional\0012_EstruturaCondicional\obj\Debug\netcoreapp2.1\0012_EstruturaCondicional.csproj.CoreCompileInputs.cache
+D:\C#\0012_EstruturaCondicional\0012_EstruturaCondicional\obj\Debug\netcoreapp2.1\0012_EstruturaCondicional.AssemblyInfoInputs.cache
+D:\C#\0012_EstruturaCondicional\0012_EstruturaCondicional\obj\Debug\netcoreapp2.1\0012_EstruturaCondicional.AssemblyInfo.cs
+D:\C#\0012_EstruturaCondicional\0012_EstruturaCondicional\obj\Debug\netcoreapp2.1\0012_EstruturaCondicional.dll
+D:\C#\0012_EstruturaCondicional\0012_EstruturaCondicional\obj\Debug\netcoreapp2.1\0012_EstruturaCondicional.pdb
+D:\C#\0012_EstruturaCondicional\0012_EstruturaCondicional\obj\Debug\netcoreapp2.1\0012_EstruturaCondicional.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Programação\C#\0006_OperadoresAtribuicao\0006_OperadoresAtribuicao\bin\Debug\netcoreapp2.1\0006_OperadoresAtribuicao.deps.json
+D:\Programação\C#\0006_OperadoresAtribuicao\0006_OperadoresAtribuicao\bin\Debug\netcoreapp2.1\0006_OperadoresAtribuicao.runtimeconfig.json
+D:\Programação\C#\0006_OperadoresAtribuicao\0006_OperadoresAtribuicao\bin\Debug\netcoreapp2.1\0006_OperadoresAtribuicao.runtimeconfig.dev.json
+D:\Programação\C#\0006_OperadoresAtribuicao\0006_OperadoresAtribuicao\bin\Debug\netcoreapp2.1\0006_OperadoresAtribuicao.dll
+D:\Programação\C#\0006_OperadoresAtribuicao\0006_OperadoresAtribuicao\bin\Debug\netcoreapp2.1\0006_OperadoresAtribuicao.pdb
+D:\Programação\C#\0006_OperadoresAtribuicao\0006_OperadoresAtribuicao\obj\Debug\netcoreapp2.1\0006_OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+D:\Programação\C#\0006_OperadoresAtribuicao\0006_OperadoresAtribuicao\obj\Debug\netcoreapp2.1\0006_OperadoresAtribuicao.AssemblyInfoInputs.cache
+D:\Programação\C#\0006_OperadoresAtribuicao\0006_OperadoresAtribuicao\obj\Debug\netcoreapp2.1\0006_OperadoresAtribuicao.AssemblyInfo.cs
+D:\Programação\C#\0006_OperadoresAtribuicao\0006_OperadoresAtribuicao\obj\Debug\netcoreapp2.1\0006_OperadoresAtribuicao.dll
+D:\Programação\C#\0006_OperadoresAtribuicao\0006_OperadoresAtribuicao\obj\Debug\netcoreapp2.1\0006_OperadoresAtribuicao.pdb
+D:\Programação\C#\0006_OperadoresAtribuicao\0006_OperadoresAtribuicao\obj\Debug\netcoreapp2.1\0006_OperadoresAtribuicao.csprojAssemblyReference.cache

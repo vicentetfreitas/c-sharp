@@ -1,0 +1,11 @@
+D:\C#\0027_MenuTotalPrecos\0027_MenuTotalPrecos\bin\Debug\netcoreapp2.1\0027_MenuTotalPrecos.deps.json
+D:\C#\0027_MenuTotalPrecos\0027_MenuTotalPrecos\bin\Debug\netcoreapp2.1\0027_MenuTotalPrecos.runtimeconfig.json
+D:\C#\0027_MenuTotalPrecos\0027_MenuTotalPrecos\bin\Debug\netcoreapp2.1\0027_MenuTotalPrecos.runtimeconfig.dev.json
+D:\C#\0027_MenuTotalPrecos\0027_MenuTotalPrecos\bin\Debug\netcoreapp2.1\0027_MenuTotalPrecos.dll
+D:\C#\0027_MenuTotalPrecos\0027_MenuTotalPrecos\bin\Debug\netcoreapp2.1\0027_MenuTotalPrecos.pdb
+D:\C#\0027_MenuTotalPrecos\0027_MenuTotalPrecos\obj\Debug\netcoreapp2.1\0027_MenuTotalPrecos.csproj.CoreCompileInputs.cache
+D:\C#\0027_MenuTotalPrecos\0027_MenuTotalPrecos\obj\Debug\netcoreapp2.1\0027_MenuTotalPrecos.AssemblyInfoInputs.cache
+D:\C#\0027_MenuTotalPrecos\0027_MenuTotalPrecos\obj\Debug\netcoreapp2.1\0027_MenuTotalPrecos.AssemblyInfo.cs
+D:\C#\0027_MenuTotalPrecos\0027_MenuTotalPrecos\obj\Debug\netcoreapp2.1\0027_MenuTotalPrecos.dll
+D:\C#\0027_MenuTotalPrecos\0027_MenuTotalPrecos\obj\Debug\netcoreapp2.1\0027_MenuTotalPrecos.pdb
+D:\C#\0027_MenuTotalPrecos\0027_MenuTotalPrecos\obj\Debug\netcoreapp2.1\0027_MenuTotalPrecos.csprojAssemblyReference.cache

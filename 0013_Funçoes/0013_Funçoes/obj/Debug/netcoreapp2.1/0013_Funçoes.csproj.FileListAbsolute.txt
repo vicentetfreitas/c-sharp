@@ -1,0 +1,11 @@
+D:\C#\0013_Funçoes\0013_Funçoes\bin\Debug\netcoreapp2.1\0013_Funçoes.deps.json
+D:\C#\0013_Funçoes\0013_Funçoes\bin\Debug\netcoreapp2.1\0013_Funçoes.runtimeconfig.json
+D:\C#\0013_Funçoes\0013_Funçoes\bin\Debug\netcoreapp2.1\0013_Funçoes.runtimeconfig.dev.json
+D:\C#\0013_Funçoes\0013_Funçoes\bin\Debug\netcoreapp2.1\0013_Funçoes.dll
+D:\C#\0013_Funçoes\0013_Funçoes\bin\Debug\netcoreapp2.1\0013_Funçoes.pdb
+D:\C#\0013_Funçoes\0013_Funçoes\obj\Debug\netcoreapp2.1\0013_Funçoes.csprojAssemblyReference.cache
+D:\C#\0013_Funçoes\0013_Funçoes\obj\Debug\netcoreapp2.1\0013_Funçoes.csproj.CoreCompileInputs.cache
+D:\C#\0013_Funçoes\0013_Funçoes\obj\Debug\netcoreapp2.1\0013_Funçoes.AssemblyInfoInputs.cache
+D:\C#\0013_Funçoes\0013_Funçoes\obj\Debug\netcoreapp2.1\0013_Funçoes.AssemblyInfo.cs
+D:\C#\0013_Funçoes\0013_Funçoes\obj\Debug\netcoreapp2.1\0013_Funçoes.dll
+D:\C#\0013_Funçoes\0013_Funçoes\obj\Debug\netcoreapp2.1\0013_Funçoes.pdb

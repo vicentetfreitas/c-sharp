@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0039_DivisoresNumero", "0039_DivisoresNumero\0039_DivisoresNumero.csproj", "{8154F96C-EC9F-4FF1-B157-E5C2AE2DDCFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8154F96C-EC9F-4FF1-B157-E5C2AE2DDCFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8154F96C-EC9F-4FF1-B157-E5C2AE2DDCFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8154F96C-EC9F-4FF1-B157-E5C2AE2DDCFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8154F96C-EC9F-4FF1-B157-E5C2AE2DDCFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14A1DA9F-6DC3-49E2-BBFE-F49A9E3B9A72}
+	EndGlobalSection
+EndGlobal

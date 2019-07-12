@@ -1,0 +1,11 @@
+D:\C#\0038_Fatorial\0038_Fatorial\bin\Debug\netcoreapp2.1\0038_Fatorial.deps.json
+D:\C#\0038_Fatorial\0038_Fatorial\bin\Debug\netcoreapp2.1\0038_Fatorial.runtimeconfig.json
+D:\C#\0038_Fatorial\0038_Fatorial\bin\Debug\netcoreapp2.1\0038_Fatorial.runtimeconfig.dev.json
+D:\C#\0038_Fatorial\0038_Fatorial\bin\Debug\netcoreapp2.1\0038_Fatorial.dll
+D:\C#\0038_Fatorial\0038_Fatorial\bin\Debug\netcoreapp2.1\0038_Fatorial.pdb
+D:\C#\0038_Fatorial\0038_Fatorial\obj\Debug\netcoreapp2.1\0038_Fatorial.csprojAssemblyReference.cache
+D:\C#\0038_Fatorial\0038_Fatorial\obj\Debug\netcoreapp2.1\0038_Fatorial.csproj.CoreCompileInputs.cache
+D:\C#\0038_Fatorial\0038_Fatorial\obj\Debug\netcoreapp2.1\0038_Fatorial.AssemblyInfoInputs.cache
+D:\C#\0038_Fatorial\0038_Fatorial\obj\Debug\netcoreapp2.1\0038_Fatorial.AssemblyInfo.cs
+D:\C#\0038_Fatorial\0038_Fatorial\obj\Debug\netcoreapp2.1\0038_Fatorial.dll
+D:\C#\0038_Fatorial\0038_Fatorial\obj\Debug\netcoreapp2.1\0038_Fatorial.pdb

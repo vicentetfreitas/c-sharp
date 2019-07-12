@@ -1,0 +1,11 @@
+D:\Programação\C#\0003_SaidaDados\0003_SaidaDados\bin\Debug\netcoreapp2.1\0003_SaidaDados.deps.json
+D:\Programação\C#\0003_SaidaDados\0003_SaidaDados\bin\Debug\netcoreapp2.1\0003_SaidaDados.runtimeconfig.json
+D:\Programação\C#\0003_SaidaDados\0003_SaidaDados\bin\Debug\netcoreapp2.1\0003_SaidaDados.runtimeconfig.dev.json
+D:\Programação\C#\0003_SaidaDados\0003_SaidaDados\bin\Debug\netcoreapp2.1\0003_SaidaDados.dll
+D:\Programação\C#\0003_SaidaDados\0003_SaidaDados\bin\Debug\netcoreapp2.1\0003_SaidaDados.pdb
+D:\Programação\C#\0003_SaidaDados\0003_SaidaDados\obj\Debug\netcoreapp2.1\0003_SaidaDados.csprojAssemblyReference.cache
+D:\Programação\C#\0003_SaidaDados\0003_SaidaDados\obj\Debug\netcoreapp2.1\0003_SaidaDados.csproj.CoreCompileInputs.cache
+D:\Programação\C#\0003_SaidaDados\0003_SaidaDados\obj\Debug\netcoreapp2.1\0003_SaidaDados.AssemblyInfoInputs.cache
+D:\Programação\C#\0003_SaidaDados\0003_SaidaDados\obj\Debug\netcoreapp2.1\0003_SaidaDados.AssemblyInfo.cs
+D:\Programação\C#\0003_SaidaDados\0003_SaidaDados\obj\Debug\netcoreapp2.1\0003_SaidaDados.dll
+D:\Programação\C#\0003_SaidaDados\0003_SaidaDados\obj\Debug\netcoreapp2.1\0003_SaidaDados.pdb

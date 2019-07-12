@@ -1,0 +1,11 @@
+D:\Programação\C#\0009_EntradaDadosEx\0009_EntradaDadosEx\bin\Debug\netcoreapp2.1\0009_EntradaDadosEx.deps.json
+D:\Programação\C#\0009_EntradaDadosEx\0009_EntradaDadosEx\bin\Debug\netcoreapp2.1\0009_EntradaDadosEx.runtimeconfig.json
+D:\Programação\C#\0009_EntradaDadosEx\0009_EntradaDadosEx\bin\Debug\netcoreapp2.1\0009_EntradaDadosEx.runtimeconfig.dev.json
+D:\Programação\C#\0009_EntradaDadosEx\0009_EntradaDadosEx\bin\Debug\netcoreapp2.1\0009_EntradaDadosEx.dll
+D:\Programação\C#\0009_EntradaDadosEx\0009_EntradaDadosEx\bin\Debug\netcoreapp2.1\0009_EntradaDadosEx.pdb
+D:\Programação\C#\0009_EntradaDadosEx\0009_EntradaDadosEx\obj\Debug\netcoreapp2.1\0009_EntradaDadosEx.csproj.CoreCompileInputs.cache
+D:\Programação\C#\0009_EntradaDadosEx\0009_EntradaDadosEx\obj\Debug\netcoreapp2.1\0009_EntradaDadosEx.AssemblyInfoInputs.cache
+D:\Programação\C#\0009_EntradaDadosEx\0009_EntradaDadosEx\obj\Debug\netcoreapp2.1\0009_EntradaDadosEx.AssemblyInfo.cs
+D:\Programação\C#\0009_EntradaDadosEx\0009_EntradaDadosEx\obj\Debug\netcoreapp2.1\0009_EntradaDadosEx.dll
+D:\Programação\C#\0009_EntradaDadosEx\0009_EntradaDadosEx\obj\Debug\netcoreapp2.1\0009_EntradaDadosEx.pdb
+D:\Programação\C#\0009_EntradaDadosEx\0009_EntradaDadosEx\obj\Debug\netcoreapp2.1\0009_EntradaDadosEx.csprojAssemblyReference.cache

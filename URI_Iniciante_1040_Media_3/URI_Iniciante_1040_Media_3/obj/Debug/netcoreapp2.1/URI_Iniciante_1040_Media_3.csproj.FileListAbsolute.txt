@@ -1,0 +1,11 @@
+D:\C#\URI_Iniciante_1040_Media_3\URI_Iniciante_1040_Media_3\bin\Debug\netcoreapp2.1\URI_Iniciante_1040_Media_3.deps.json
+D:\C#\URI_Iniciante_1040_Media_3\URI_Iniciante_1040_Media_3\bin\Debug\netcoreapp2.1\URI_Iniciante_1040_Media_3.runtimeconfig.json
+D:\C#\URI_Iniciante_1040_Media_3\URI_Iniciante_1040_Media_3\bin\Debug\netcoreapp2.1\URI_Iniciante_1040_Media_3.runtimeconfig.dev.json
+D:\C#\URI_Iniciante_1040_Media_3\URI_Iniciante_1040_Media_3\bin\Debug\netcoreapp2.1\URI_Iniciante_1040_Media_3.dll
+D:\C#\URI_Iniciante_1040_Media_3\URI_Iniciante_1040_Media_3\bin\Debug\netcoreapp2.1\URI_Iniciante_1040_Media_3.pdb
+D:\C#\URI_Iniciante_1040_Media_3\URI_Iniciante_1040_Media_3\obj\Debug\netcoreapp2.1\URI_Iniciante_1040_Media_3.csproj.CoreCompileInputs.cache
+D:\C#\URI_Iniciante_1040_Media_3\URI_Iniciante_1040_Media_3\obj\Debug\netcoreapp2.1\URI_Iniciante_1040_Media_3.AssemblyInfoInputs.cache
+D:\C#\URI_Iniciante_1040_Media_3\URI_Iniciante_1040_Media_3\obj\Debug\netcoreapp2.1\URI_Iniciante_1040_Media_3.AssemblyInfo.cs
+D:\C#\URI_Iniciante_1040_Media_3\URI_Iniciante_1040_Media_3\obj\Debug\netcoreapp2.1\URI_Iniciante_1040_Media_3.dll
+D:\C#\URI_Iniciante_1040_Media_3\URI_Iniciante_1040_Media_3\obj\Debug\netcoreapp2.1\URI_Iniciante_1040_Media_3.pdb
+D:\C#\URI_Iniciante_1040_Media_3\URI_Iniciante_1040_Media_3\obj\Debug\netcoreapp2.1\URI_Iniciante_1040_Media_3.csprojAssemblyReference.cache

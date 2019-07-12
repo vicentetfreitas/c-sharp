@@ -1,0 +1,11 @@
+D:\C#\URI_Iniciante_1042_SortSimples\URI_Iniciante_1042_SortSimples\bin\Debug\netcoreapp2.1\URI_Iniciante_1042_SortSimples.deps.json
+D:\C#\URI_Iniciante_1042_SortSimples\URI_Iniciante_1042_SortSimples\bin\Debug\netcoreapp2.1\URI_Iniciante_1042_SortSimples.runtimeconfig.json
+D:\C#\URI_Iniciante_1042_SortSimples\URI_Iniciante_1042_SortSimples\bin\Debug\netcoreapp2.1\URI_Iniciante_1042_SortSimples.runtimeconfig.dev.json
+D:\C#\URI_Iniciante_1042_SortSimples\URI_Iniciante_1042_SortSimples\bin\Debug\netcoreapp2.1\URI_Iniciante_1042_SortSimples.dll
+D:\C#\URI_Iniciante_1042_SortSimples\URI_Iniciante_1042_SortSimples\bin\Debug\netcoreapp2.1\URI_Iniciante_1042_SortSimples.pdb
+D:\C#\URI_Iniciante_1042_SortSimples\URI_Iniciante_1042_SortSimples\obj\Debug\netcoreapp2.1\URI_Iniciante_1042_SortSimples.csprojAssemblyReference.cache
+D:\C#\URI_Iniciante_1042_SortSimples\URI_Iniciante_1042_SortSimples\obj\Debug\netcoreapp2.1\URI_Iniciante_1042_SortSimples.csproj.CoreCompileInputs.cache
+D:\C#\URI_Iniciante_1042_SortSimples\URI_Iniciante_1042_SortSimples\obj\Debug\netcoreapp2.1\URI_Iniciante_1042_SortSimples.AssemblyInfoInputs.cache
+D:\C#\URI_Iniciante_1042_SortSimples\URI_Iniciante_1042_SortSimples\obj\Debug\netcoreapp2.1\URI_Iniciante_1042_SortSimples.AssemblyInfo.cs
+D:\C#\URI_Iniciante_1042_SortSimples\URI_Iniciante_1042_SortSimples\obj\Debug\netcoreapp2.1\URI_Iniciante_1042_SortSimples.dll
+D:\C#\URI_Iniciante_1042_SortSimples\URI_Iniciante_1042_SortSimples\obj\Debug\netcoreapp2.1\URI_Iniciante_1042_SortSimples.pdb

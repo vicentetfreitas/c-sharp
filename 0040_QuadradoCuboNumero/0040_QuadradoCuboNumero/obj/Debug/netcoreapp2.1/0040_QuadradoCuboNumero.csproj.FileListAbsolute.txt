@@ -1,0 +1,10 @@
+D:\C#\0040_QuadradoCuboNumero\0040_QuadradoCuboNumero\bin\Debug\netcoreapp2.1\0040_QuadradoCuboNumero.deps.json
+D:\C#\0040_QuadradoCuboNumero\0040_QuadradoCuboNumero\bin\Debug\netcoreapp2.1\0040_QuadradoCuboNumero.runtimeconfig.json
+D:\C#\0040_QuadradoCuboNumero\0040_QuadradoCuboNumero\bin\Debug\netcoreapp2.1\0040_QuadradoCuboNumero.runtimeconfig.dev.json
+D:\C#\0040_QuadradoCuboNumero\0040_QuadradoCuboNumero\bin\Debug\netcoreapp2.1\0040_QuadradoCuboNumero.dll
+D:\C#\0040_QuadradoCuboNumero\0040_QuadradoCuboNumero\bin\Debug\netcoreapp2.1\0040_QuadradoCuboNumero.pdb
+D:\C#\0040_QuadradoCuboNumero\0040_QuadradoCuboNumero\obj\Debug\netcoreapp2.1\0040_QuadradoCuboNumero.csproj.CoreCompileInputs.cache
+D:\C#\0040_QuadradoCuboNumero\0040_QuadradoCuboNumero\obj\Debug\netcoreapp2.1\0040_QuadradoCuboNumero.AssemblyInfoInputs.cache
+D:\C#\0040_QuadradoCuboNumero\0040_QuadradoCuboNumero\obj\Debug\netcoreapp2.1\0040_QuadradoCuboNumero.AssemblyInfo.cs
+D:\C#\0040_QuadradoCuboNumero\0040_QuadradoCuboNumero\obj\Debug\netcoreapp2.1\0040_QuadradoCuboNumero.dll
+D:\C#\0040_QuadradoCuboNumero\0040_QuadradoCuboNumero\obj\Debug\netcoreapp2.1\0040_QuadradoCuboNumero.pdb

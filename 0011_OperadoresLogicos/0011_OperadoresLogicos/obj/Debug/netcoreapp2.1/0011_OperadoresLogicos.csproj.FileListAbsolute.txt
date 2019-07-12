@@ -1,0 +1,11 @@
+D:\Programação\C#\0011_OperadoresLogicos\0011_OperadoresLogicos\bin\Debug\netcoreapp2.1\0011_OperadoresLogicos.deps.json
+D:\Programação\C#\0011_OperadoresLogicos\0011_OperadoresLogicos\bin\Debug\netcoreapp2.1\0011_OperadoresLogicos.runtimeconfig.json
+D:\Programação\C#\0011_OperadoresLogicos\0011_OperadoresLogicos\bin\Debug\netcoreapp2.1\0011_OperadoresLogicos.runtimeconfig.dev.json
+D:\Programação\C#\0011_OperadoresLogicos\0011_OperadoresLogicos\bin\Debug\netcoreapp2.1\0011_OperadoresLogicos.dll
+D:\Programação\C#\0011_OperadoresLogicos\0011_OperadoresLogicos\bin\Debug\netcoreapp2.1\0011_OperadoresLogicos.pdb
+D:\Programação\C#\0011_OperadoresLogicos\0011_OperadoresLogicos\obj\Debug\netcoreapp2.1\0011_OperadoresLogicos.csproj.CoreCompileInputs.cache
+D:\Programação\C#\0011_OperadoresLogicos\0011_OperadoresLogicos\obj\Debug\netcoreapp2.1\0011_OperadoresLogicos.AssemblyInfoInputs.cache
+D:\Programação\C#\0011_OperadoresLogicos\0011_OperadoresLogicos\obj\Debug\netcoreapp2.1\0011_OperadoresLogicos.AssemblyInfo.cs
+D:\Programação\C#\0011_OperadoresLogicos\0011_OperadoresLogicos\obj\Debug\netcoreapp2.1\0011_OperadoresLogicos.dll
+D:\Programação\C#\0011_OperadoresLogicos\0011_OperadoresLogicos\obj\Debug\netcoreapp2.1\0011_OperadoresLogicos.pdb
+D:\Programação\C#\0011_OperadoresLogicos\0011_OperadoresLogicos\obj\Debug\netcoreapp2.1\0011_OperadoresLogicos.csprojAssemblyReference.cache

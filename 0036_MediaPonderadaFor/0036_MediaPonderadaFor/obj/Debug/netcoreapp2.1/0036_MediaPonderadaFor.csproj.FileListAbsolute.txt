@@ -1,0 +1,11 @@
+D:\C#\0036_MediaPonderadaFor\0036_MediaPonderadaFor\bin\Debug\netcoreapp2.1\0036_MediaPonderadaFor.deps.json
+D:\C#\0036_MediaPonderadaFor\0036_MediaPonderadaFor\bin\Debug\netcoreapp2.1\0036_MediaPonderadaFor.runtimeconfig.json
+D:\C#\0036_MediaPonderadaFor\0036_MediaPonderadaFor\bin\Debug\netcoreapp2.1\0036_MediaPonderadaFor.runtimeconfig.dev.json
+D:\C#\0036_MediaPonderadaFor\0036_MediaPonderadaFor\bin\Debug\netcoreapp2.1\0036_MediaPonderadaFor.dll
+D:\C#\0036_MediaPonderadaFor\0036_MediaPonderadaFor\bin\Debug\netcoreapp2.1\0036_MediaPonderadaFor.pdb
+D:\C#\0036_MediaPonderadaFor\0036_MediaPonderadaFor\obj\Debug\netcoreapp2.1\0036_MediaPonderadaFor.csprojAssemblyReference.cache
+D:\C#\0036_MediaPonderadaFor\0036_MediaPonderadaFor\obj\Debug\netcoreapp2.1\0036_MediaPonderadaFor.csproj.CoreCompileInputs.cache
+D:\C#\0036_MediaPonderadaFor\0036_MediaPonderadaFor\obj\Debug\netcoreapp2.1\0036_MediaPonderadaFor.AssemblyInfoInputs.cache
+D:\C#\0036_MediaPonderadaFor\0036_MediaPonderadaFor\obj\Debug\netcoreapp2.1\0036_MediaPonderadaFor.AssemblyInfo.cs
+D:\C#\0036_MediaPonderadaFor\0036_MediaPonderadaFor\obj\Debug\netcoreapp2.1\0036_MediaPonderadaFor.dll
+D:\C#\0036_MediaPonderadaFor\0036_MediaPonderadaFor\obj\Debug\netcoreapp2.1\0036_MediaPonderadaFor.pdb

@@ -1,0 +1,11 @@
+D:\C#\0042_ClasseAreaDoisTriangulos\0042_ClasseAreaDoisTriangulos\obj\Debug\netcoreapp2.1\0042_ClasseAreaDoisTriangulos.csprojAssemblyReference.cache
+D:\C#\0042_ClasseAreaDoisTriangulos\0042_ClasseAreaDoisTriangulos\obj\Debug\netcoreapp2.1\0042_ClasseAreaDoisTriangulos.csproj.CoreCompileInputs.cache
+D:\C#\0042_ClasseAreaDoisTriangulos\0042_ClasseAreaDoisTriangulos\obj\Debug\netcoreapp2.1\0042_ClasseAreaDoisTriangulos.AssemblyInfoInputs.cache
+D:\C#\0042_ClasseAreaDoisTriangulos\0042_ClasseAreaDoisTriangulos\obj\Debug\netcoreapp2.1\0042_ClasseAreaDoisTriangulos.AssemblyInfo.cs
+D:\C#\0042_ClasseAreaDoisTriangulos\0042_ClasseAreaDoisTriangulos\bin\Debug\netcoreapp2.1\0042_ClasseAreaDoisTriangulos.deps.json
+D:\C#\0042_ClasseAreaDoisTriangulos\0042_ClasseAreaDoisTriangulos\bin\Debug\netcoreapp2.1\0042_ClasseAreaDoisTriangulos.runtimeconfig.json
+D:\C#\0042_ClasseAreaDoisTriangulos\0042_ClasseAreaDoisTriangulos\bin\Debug\netcoreapp2.1\0042_ClasseAreaDoisTriangulos.runtimeconfig.dev.json
+D:\C#\0042_ClasseAreaDoisTriangulos\0042_ClasseAreaDoisTriangulos\bin\Debug\netcoreapp2.1\0042_ClasseAreaDoisTriangulos.dll
+D:\C#\0042_ClasseAreaDoisTriangulos\0042_ClasseAreaDoisTriangulos\bin\Debug\netcoreapp2.1\0042_ClasseAreaDoisTriangulos.pdb
+D:\C#\0042_ClasseAreaDoisTriangulos\0042_ClasseAreaDoisTriangulos\obj\Debug\netcoreapp2.1\0042_ClasseAreaDoisTriangulos.dll
+D:\C#\0042_ClasseAreaDoisTriangulos\0042_ClasseAreaDoisTriangulos\obj\Debug\netcoreapp2.1\0042_ClasseAreaDoisTriangulos.pdb

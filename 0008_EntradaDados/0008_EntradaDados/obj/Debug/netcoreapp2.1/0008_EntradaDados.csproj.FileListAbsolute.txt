@@ -1,0 +1,11 @@
+D:\Programação\C#\0008_EntradaDados\0008_EntradaDados\bin\Debug\netcoreapp2.1\0008_EntradaDados.deps.json
+D:\Programação\C#\0008_EntradaDados\0008_EntradaDados\bin\Debug\netcoreapp2.1\0008_EntradaDados.runtimeconfig.json
+D:\Programação\C#\0008_EntradaDados\0008_EntradaDados\bin\Debug\netcoreapp2.1\0008_EntradaDados.runtimeconfig.dev.json
+D:\Programação\C#\0008_EntradaDados\0008_EntradaDados\bin\Debug\netcoreapp2.1\0008_EntradaDados.dll
+D:\Programação\C#\0008_EntradaDados\0008_EntradaDados\bin\Debug\netcoreapp2.1\0008_EntradaDados.pdb
+D:\Programação\C#\0008_EntradaDados\0008_EntradaDados\obj\Debug\netcoreapp2.1\0008_EntradaDados.csproj.CoreCompileInputs.cache
+D:\Programação\C#\0008_EntradaDados\0008_EntradaDados\obj\Debug\netcoreapp2.1\0008_EntradaDados.AssemblyInfoInputs.cache
+D:\Programação\C#\0008_EntradaDados\0008_EntradaDados\obj\Debug\netcoreapp2.1\0008_EntradaDados.AssemblyInfo.cs
+D:\Programação\C#\0008_EntradaDados\0008_EntradaDados\obj\Debug\netcoreapp2.1\0008_EntradaDados.dll
+D:\Programação\C#\0008_EntradaDados\0008_EntradaDados\obj\Debug\netcoreapp2.1\0008_EntradaDados.pdb
+D:\Programação\C#\0008_EntradaDados\0008_EntradaDados\obj\Debug\netcoreapp2.1\0008_EntradaDados.csprojAssemblyReference.cache

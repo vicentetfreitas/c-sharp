@@ -1,0 +1,11 @@
+D:\C#\0051_ConstrutoresProdutoEstoque\0051_ConstrutoresProdutoEstoque\bin\Debug\netcoreapp2.1\0051_ConstrutoresProdutoEstoque.deps.json
+D:\C#\0051_ConstrutoresProdutoEstoque\0051_ConstrutoresProdutoEstoque\bin\Debug\netcoreapp2.1\0051_ConstrutoresProdutoEstoque.runtimeconfig.json
+D:\C#\0051_ConstrutoresProdutoEstoque\0051_ConstrutoresProdutoEstoque\bin\Debug\netcoreapp2.1\0051_ConstrutoresProdutoEstoque.runtimeconfig.dev.json
+D:\C#\0051_ConstrutoresProdutoEstoque\0051_ConstrutoresProdutoEstoque\bin\Debug\netcoreapp2.1\0051_ConstrutoresProdutoEstoque.dll
+D:\C#\0051_ConstrutoresProdutoEstoque\0051_ConstrutoresProdutoEstoque\bin\Debug\netcoreapp2.1\0051_ConstrutoresProdutoEstoque.pdb
+D:\C#\0051_ConstrutoresProdutoEstoque\0051_ConstrutoresProdutoEstoque\obj\Debug\netcoreapp2.1\0051_ConstrutoresProdutoEstoque.csprojAssemblyReference.cache
+D:\C#\0051_ConstrutoresProdutoEstoque\0051_ConstrutoresProdutoEstoque\obj\Debug\netcoreapp2.1\0051_ConstrutoresProdutoEstoque.csproj.CoreCompileInputs.cache
+D:\C#\0051_ConstrutoresProdutoEstoque\0051_ConstrutoresProdutoEstoque\obj\Debug\netcoreapp2.1\0051_ConstrutoresProdutoEstoque.AssemblyInfoInputs.cache
+D:\C#\0051_ConstrutoresProdutoEstoque\0051_ConstrutoresProdutoEstoque\obj\Debug\netcoreapp2.1\0051_ConstrutoresProdutoEstoque.AssemblyInfo.cs
+D:\C#\0051_ConstrutoresProdutoEstoque\0051_ConstrutoresProdutoEstoque\obj\Debug\netcoreapp2.1\0051_ConstrutoresProdutoEstoque.dll
+D:\C#\0051_ConstrutoresProdutoEstoque\0051_ConstrutoresProdutoEstoque\obj\Debug\netcoreapp2.1\0051_ConstrutoresProdutoEstoque.pdb

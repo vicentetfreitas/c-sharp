@@ -1,0 +1,10 @@
+D:\C#\URI_Iniciante_1011_Esfera\URI_Iniciante_1011_Esfera\bin\Debug\netcoreapp2.1\URI_Iniciante_1011_Esfera.deps.json
+D:\C#\URI_Iniciante_1011_Esfera\URI_Iniciante_1011_Esfera\bin\Debug\netcoreapp2.1\URI_Iniciante_1011_Esfera.runtimeconfig.json
+D:\C#\URI_Iniciante_1011_Esfera\URI_Iniciante_1011_Esfera\bin\Debug\netcoreapp2.1\URI_Iniciante_1011_Esfera.runtimeconfig.dev.json
+D:\C#\URI_Iniciante_1011_Esfera\URI_Iniciante_1011_Esfera\bin\Debug\netcoreapp2.1\URI_Iniciante_1011_Esfera.dll
+D:\C#\URI_Iniciante_1011_Esfera\URI_Iniciante_1011_Esfera\bin\Debug\netcoreapp2.1\URI_Iniciante_1011_Esfera.pdb
+D:\C#\URI_Iniciante_1011_Esfera\URI_Iniciante_1011_Esfera\obj\Debug\netcoreapp2.1\URI_Iniciante_1011_Esfera.csproj.CoreCompileInputs.cache
+D:\C#\URI_Iniciante_1011_Esfera\URI_Iniciante_1011_Esfera\obj\Debug\netcoreapp2.1\URI_Iniciante_1011_Esfera.AssemblyInfoInputs.cache
+D:\C#\URI_Iniciante_1011_Esfera\URI_Iniciante_1011_Esfera\obj\Debug\netcoreapp2.1\URI_Iniciante_1011_Esfera.AssemblyInfo.cs
+D:\C#\URI_Iniciante_1011_Esfera\URI_Iniciante_1011_Esfera\obj\Debug\netcoreapp2.1\URI_Iniciante_1011_Esfera.dll
+D:\C#\URI_Iniciante_1011_Esfera\URI_Iniciante_1011_Esfera\obj\Debug\netcoreapp2.1\URI_Iniciante_1011_Esfera.pdb

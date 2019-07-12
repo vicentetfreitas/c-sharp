@@ -1,0 +1,11 @@
+D:\C#\URI_Iniciante_1002_AreaCirculo\URI_Iniciante_1002_AreaCirculo\bin\Debug\netcoreapp2.1\URI_Iniciante_1002_AreaCirculo.deps.json
+D:\C#\URI_Iniciante_1002_AreaCirculo\URI_Iniciante_1002_AreaCirculo\bin\Debug\netcoreapp2.1\URI_Iniciante_1002_AreaCirculo.runtimeconfig.json
+D:\C#\URI_Iniciante_1002_AreaCirculo\URI_Iniciante_1002_AreaCirculo\bin\Debug\netcoreapp2.1\URI_Iniciante_1002_AreaCirculo.runtimeconfig.dev.json
+D:\C#\URI_Iniciante_1002_AreaCirculo\URI_Iniciante_1002_AreaCirculo\bin\Debug\netcoreapp2.1\URI_Iniciante_1002_AreaCirculo.dll
+D:\C#\URI_Iniciante_1002_AreaCirculo\URI_Iniciante_1002_AreaCirculo\bin\Debug\netcoreapp2.1\URI_Iniciante_1002_AreaCirculo.pdb
+D:\C#\URI_Iniciante_1002_AreaCirculo\URI_Iniciante_1002_AreaCirculo\obj\Debug\netcoreapp2.1\URI_Iniciante_1002_AreaCirculo.csprojAssemblyReference.cache
+D:\C#\URI_Iniciante_1002_AreaCirculo\URI_Iniciante_1002_AreaCirculo\obj\Debug\netcoreapp2.1\URI_Iniciante_1002_AreaCirculo.csproj.CoreCompileInputs.cache
+D:\C#\URI_Iniciante_1002_AreaCirculo\URI_Iniciante_1002_AreaCirculo\obj\Debug\netcoreapp2.1\URI_Iniciante_1002_AreaCirculo.AssemblyInfoInputs.cache
+D:\C#\URI_Iniciante_1002_AreaCirculo\URI_Iniciante_1002_AreaCirculo\obj\Debug\netcoreapp2.1\URI_Iniciante_1002_AreaCirculo.AssemblyInfo.cs
+D:\C#\URI_Iniciante_1002_AreaCirculo\URI_Iniciante_1002_AreaCirculo\obj\Debug\netcoreapp2.1\URI_Iniciante_1002_AreaCirculo.dll
+D:\C#\URI_Iniciante_1002_AreaCirculo\URI_Iniciante_1002_AreaCirculo\obj\Debug\netcoreapp2.1\URI_Iniciante_1002_AreaCirculo.pdb

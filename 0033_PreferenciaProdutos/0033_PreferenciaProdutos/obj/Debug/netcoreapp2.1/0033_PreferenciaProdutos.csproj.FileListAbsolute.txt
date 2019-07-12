@@ -1,0 +1,11 @@
+D:\C#\0033_PreferenciaProdutos\0033_PreferenciaProdutos\bin\Debug\netcoreapp2.1\0033_PreferenciaProdutos.deps.json
+D:\C#\0033_PreferenciaProdutos\0033_PreferenciaProdutos\bin\Debug\netcoreapp2.1\0033_PreferenciaProdutos.runtimeconfig.json
+D:\C#\0033_PreferenciaProdutos\0033_PreferenciaProdutos\bin\Debug\netcoreapp2.1\0033_PreferenciaProdutos.runtimeconfig.dev.json
+D:\C#\0033_PreferenciaProdutos\0033_PreferenciaProdutos\bin\Debug\netcoreapp2.1\0033_PreferenciaProdutos.dll
+D:\C#\0033_PreferenciaProdutos\0033_PreferenciaProdutos\bin\Debug\netcoreapp2.1\0033_PreferenciaProdutos.pdb
+D:\C#\0033_PreferenciaProdutos\0033_PreferenciaProdutos\obj\Debug\netcoreapp2.1\0033_PreferenciaProdutos.csprojAssemblyReference.cache
+D:\C#\0033_PreferenciaProdutos\0033_PreferenciaProdutos\obj\Debug\netcoreapp2.1\0033_PreferenciaProdutos.csproj.CoreCompileInputs.cache
+D:\C#\0033_PreferenciaProdutos\0033_PreferenciaProdutos\obj\Debug\netcoreapp2.1\0033_PreferenciaProdutos.AssemblyInfoInputs.cache
+D:\C#\0033_PreferenciaProdutos\0033_PreferenciaProdutos\obj\Debug\netcoreapp2.1\0033_PreferenciaProdutos.AssemblyInfo.cs
+D:\C#\0033_PreferenciaProdutos\0033_PreferenciaProdutos\obj\Debug\netcoreapp2.1\0033_PreferenciaProdutos.dll
+D:\C#\0033_PreferenciaProdutos\0033_PreferenciaProdutos\obj\Debug\netcoreapp2.1\0033_PreferenciaProdutos.pdb

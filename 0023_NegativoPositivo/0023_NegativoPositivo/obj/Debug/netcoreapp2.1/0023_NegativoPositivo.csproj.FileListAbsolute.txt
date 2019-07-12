@@ -1,0 +1,11 @@
+D:\C#\0023_NegativoPositivo\0023_NegativoPositivo\bin\Debug\netcoreapp2.1\0023_NegativoPositivo.deps.json
+D:\C#\0023_NegativoPositivo\0023_NegativoPositivo\bin\Debug\netcoreapp2.1\0023_NegativoPositivo.runtimeconfig.json
+D:\C#\0023_NegativoPositivo\0023_NegativoPositivo\bin\Debug\netcoreapp2.1\0023_NegativoPositivo.runtimeconfig.dev.json
+D:\C#\0023_NegativoPositivo\0023_NegativoPositivo\bin\Debug\netcoreapp2.1\0023_NegativoPositivo.dll
+D:\C#\0023_NegativoPositivo\0023_NegativoPositivo\bin\Debug\netcoreapp2.1\0023_NegativoPositivo.pdb
+D:\C#\0023_NegativoPositivo\0023_NegativoPositivo\obj\Debug\netcoreapp2.1\0023_NegativoPositivo.csprojAssemblyReference.cache
+D:\C#\0023_NegativoPositivo\0023_NegativoPositivo\obj\Debug\netcoreapp2.1\0023_NegativoPositivo.csproj.CoreCompileInputs.cache
+D:\C#\0023_NegativoPositivo\0023_NegativoPositivo\obj\Debug\netcoreapp2.1\0023_NegativoPositivo.AssemblyInfoInputs.cache
+D:\C#\0023_NegativoPositivo\0023_NegativoPositivo\obj\Debug\netcoreapp2.1\0023_NegativoPositivo.AssemblyInfo.cs
+D:\C#\0023_NegativoPositivo\0023_NegativoPositivo\obj\Debug\netcoreapp2.1\0023_NegativoPositivo.dll
+D:\C#\0023_NegativoPositivo\0023_NegativoPositivo\obj\Debug\netcoreapp2.1\0023_NegativoPositivo.pdb

@@ -11,7 +11,7 @@ namespace _0052_EncapsulamentoProdutoEstoque {
             //Console.WriteLine(p.GetPreco());
 
             //Properties
-            p.Nome = "TV 4k";
+            p.Nome = "T";
             Console.WriteLine(p.Nome);
             Console.WriteLine(p.Preco);
         }

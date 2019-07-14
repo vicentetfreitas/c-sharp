@@ -5,8 +5,12 @@ namespace _0052_EncapsulamentoProdutoEstoque {
 
         /*ATRIBUTOS DA CLASSE PRODUTO*/
         private string _nome;
-        private double _preco;
-        private int _quantidade;
+        //Auto-Properties
+        public double Preco { get; private set; }
+        public int Quantidade { get; private set; }
+        //private double _preco;
+        //private int _quantidade;
+
         /*Construindo CONSTRUTORES: 
          * Regra01: Definido depois dos atributos.
            Regra02: Recebe o mesmo nome da Classe.
@@ -16,26 +20,26 @@ namespace _0052_EncapsulamentoProdutoEstoque {
         public Produto() { }
 
         public Produto(string nome, double preco, int quantidade) {
-            _nome = nome;
-            _preco = preco;
-            _quantidade = quantidade;
+            Nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
         }
 
         public Produto(string nome, double preco) {
-            _nome = nome;
-            _preco = preco;
-            _quantidade = 50;
+            Nome = nome;
+            Preco = preco;
+            Quantidade = 50;
         }
         public double ValorTotalEmEstoque() {
-            return _preco * _quantidade;
+            return Preco * Quantidade;
         }
         //void=vazio: S/retorno
         //int quantidade: dados de entrada
         public void AdicionarProdutos(int quantidade) {
-            _quantidade += quantidade;
+            Quantidade += quantidade;
         }
         public void RemoverProdutos(int quantidade) {
-            _quantidade -= quantidade;
+            Quantidade -= quantidade;
         }
 
         //Properties
@@ -46,12 +50,6 @@ namespace _0052_EncapsulamentoProdutoEstoque {
                     _nome = value;
                 }
             }
-        }
-        public double Preco {
-            get { return _preco; }
-        }
-        public int Quantidade {
-            get { return _quantidade; }
         }
         //Encapsulamento
         //public string GetNome() {
@@ -72,9 +70,9 @@ namespace _0052_EncapsulamentoProdutoEstoque {
         public override string ToString() {
             return _nome
                 + ", $"
-                + _preco.ToString("F2", CultureInfo.InvariantCulture)
+                + Preco.ToString("F2", CultureInfo.InvariantCulture)
                 + ", "
-                + _quantidade
+                + Quantidade
                 + " UND, Total: R$ "
                 + ValorTotalEmEstoque().ToString("F2", CultureInfo.InvariantCulture);
         }

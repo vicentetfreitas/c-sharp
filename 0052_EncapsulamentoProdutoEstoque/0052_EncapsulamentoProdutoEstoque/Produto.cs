@@ -38,21 +38,37 @@ namespace _0052_EncapsulamentoProdutoEstoque {
             _quantidade -= quantidade;
         }
 
-        public string GetNome() {
-            return _nome;
-        }
-        public double GetPreco() {
-            return _preco;
-        }
-        public int GetQuantidade() {
-            return _quantidade;
-        }
-        public void SetNome(string nome) {
-
-            if (nome != null && nome.Length > 1) {
-                _nome = nome;
+        //Properties
+        public string Nome {
+            get { return _nome; }
+            set {
+                if (value != null && value.Length > 1) {
+                    _nome = value;
+                }
             }
         }
+        public double Preco {
+            get { return _preco; }
+        }
+        public int Quantidade {
+            get { return _quantidade; }
+        }
+        //Encapsulamento
+        //public string GetNome() {
+        //    return _nome;
+        //}
+        //public double GetPreco() {
+        //    return _preco;
+        //}
+        //public int GetQuantidade() {
+        //    return _quantidade;
+        //}
+        //public void SetNome(string nome) {
+
+        //    if (nome != null && nome.Length > 1) {
+        //        _nome = nome;
+        //    }
+        //}
         public override string ToString() {
             return _nome
                 + ", $"

@@ -6,9 +6,14 @@ namespace _0052_EncapsulamentoProdutoEstoque {
             //MANUAL
             Produto p = new Produto("TV", 500, 10);
 
-            p.SetNome("TV 4K");
+            //Encapsulamento
+            //p.SetNome("TV 4K");
+            //Console.WriteLine(p.GetPreco());
 
-            Console.WriteLine(p.GetNome());
+            //Properties
+            p.Nome = "TV 4k";
+            Console.WriteLine(p.Nome);
+            Console.WriteLine(p.Preco);
         }
     }
 }

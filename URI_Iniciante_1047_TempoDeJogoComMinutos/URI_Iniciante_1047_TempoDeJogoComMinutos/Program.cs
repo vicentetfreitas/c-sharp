@@ -3,39 +3,28 @@
 namespace URI_Iniciante_1047_TempoDeJogoComMinutos {
     class Program {
         static void Main(string[] args) {
-            string[] tempo = Console.ReadLine().Split(' ');
-            int horaInicial, horaFinal, minInicial, minFinal, minutos, hora, horaDeJogo, minDeJogo;
 
-            minutos = 60;
-            hora = minutos;
+            string[] valores = Console.ReadLine().Split(' ');
+            int horaInicial = int.Parse(valores[0]);
+            int minutoInicial = int.Parse(valores[1]);
+            int horaFinal = int.Parse(valores[2]);
+            int minutoFinal = int.Parse(valores[3]);
 
-            horaInicial = int.Parse(tempo[0]);
-            minInicial = int.Parse(tempo[1]);
-            horaFinal = int.Parse(tempo[2]);
-            minFinal = int.Parse(tempo[3]);
+            int instanteInicial = horaInicial * 60 + minutoInicial;
+            int instanteFinal = horaFinal * 60 + minutoFinal;
 
-            horaDeJogo = (horaFinal - horaInicial);
-            Console.WriteLine(horaDeJogo);
-
-            if (horaDeJogo == 0) {
-                Console.WriteLine("O JOGO DUROU 24 HORA(S) E 0 MINUTO(S)");
+            int duracao;
+            if (instanteInicial < instanteFinal) {
+                duracao = instanteFinal - instanteInicial;
             }
-            else if (horaDeJogo >= 0 && horaDeJogo <= 24) {
-
+            else {
+                duracao = (24 * 60 - instanteInicial) + instanteFinal;
             }
 
-            //if (horaDeJogo > 0 && horaDeJogo < 24) {
+            int duracaoHoras = duracao / 60;
+            int duracaoMinutos = duracao % 60;
 
-            //    Console.WriteLine($"O JOGO DUROU {horaDeJogo} HORA(S) E {minuto} MINUTO(S)");
-            //}
-            //else if (horaDeJogo == 0 && horaDeJogo == 24) {
-            //    Console.WriteLine("O JOGO DUROU 24 HORA(S) E 0 MINUTO(S)");
-            //}
-
-            //Console.WriteLine(hora);
-            //Console.WriteLine(minuto);
-            //Console.WriteLine(horaDeJogo);
-            //Console.WriteLine(minDeJogo);
+            Console.WriteLine("O JOGO DUROU " + duracaoHoras + " HORA(S) E " + duracaoMinutos + " MINUTO(S)");
 
 
         }

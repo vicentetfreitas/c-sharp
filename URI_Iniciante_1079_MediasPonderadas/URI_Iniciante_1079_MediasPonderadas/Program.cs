@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Globalization;
 namespace URI_Iniciante_1079_MediasPonderadas {
     class Program {

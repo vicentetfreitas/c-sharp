@@ -37,10 +37,6 @@ namespace _0070_SetsTotalStudents {
             newSet.UnionWith(C);
             Console.WriteLine("Total Students: " + newSet.Count);
             Console.ReadLine();
-
-
-
-
         }
     }
 }

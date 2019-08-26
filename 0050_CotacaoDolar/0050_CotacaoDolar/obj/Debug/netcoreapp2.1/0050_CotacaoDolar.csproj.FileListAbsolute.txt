@@ -1,4 +1,0 @@
-D:\C#\0050_CotacaoDolar\0050_CotacaoDolar\obj\Debug\netcoreapp2.1\0050_CotacaoDolar.csprojAssemblyReference.cache
-D:\C#\0050_CotacaoDolar\0050_CotacaoDolar\obj\Debug\netcoreapp2.1\0050_CotacaoDolar.csproj.CoreCompileInputs.cache
-D:\C#\0050_CotacaoDolar\0050_CotacaoDolar\obj\Debug\netcoreapp2.1\0050_CotacaoDolar.AssemblyInfoInputs.cache
-D:\C#\0050_CotacaoDolar\0050_CotacaoDolar\obj\Debug\netcoreapp2.1\0050_CotacaoDolar.AssemblyInfo.cs
